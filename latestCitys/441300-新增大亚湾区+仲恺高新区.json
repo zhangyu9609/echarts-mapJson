@@ -11268,7 +11268,7 @@
     {
       "type": "Feature",
       "properties": {
-        "adcode": 441325,
+        "adcode": 441304,
         "name": "大亚湾区",
         "center": [
           114.48783,
@@ -11843,8 +11843,8 @@
     {
       "type": "Feature",
       "properties": {
-        "adcode": 441326,
-        "name": "仲恺区",
+        "adcode": 441305,
+        "name": "仲恺高新区",
         "center": [
           114.413978,
           23.079883
