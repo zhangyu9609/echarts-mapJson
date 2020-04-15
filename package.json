@@ -1,0 +1,15 @@
+{
+  "name": "echarts-mapjson",
+  "version": "1.0.0",
+  "description": "最新全国各地市地图json数据，适用于echarts生成各地市地图。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mapJson",
+    "echarts"
+  ],
+  "author": "zhangyu96",
+  "license": "ISC"
+}
