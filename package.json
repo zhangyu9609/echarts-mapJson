@@ -1,6 +1,6 @@
 {
   "name": "echarts-mapjson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "最新全国各地市地图json数据，适用于echarts生成各地市地图。",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "mapJson",
     "echarts"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangyu9609/echarts-mapJson"
+  },
   "author": "zhangyu96",
   "license": "ISC"
 }
